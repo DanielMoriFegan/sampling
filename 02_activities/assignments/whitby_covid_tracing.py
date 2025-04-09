@@ -81,3 +81,4 @@ plt.title("Impact of Contact Tracing on Perceived Infection Sources")
 plt.legend()
 plt.tight_layout()
 plt.show()
+
